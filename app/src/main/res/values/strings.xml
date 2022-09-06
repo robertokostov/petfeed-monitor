@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Pet feeder</string>
+    <string name="app_text">Welcome to IoT Pet Feeder</string>
+    <string name="text_no">No</string>
+    <string name="text_yes">Yes</string>
+    <string name="text_scan">Скенирај за уреди</string>
+    <string name="text_choose">Избирање на уред од листата со цел поврзување.</string>
+    <string name="text_choose1">Изберирање уред.</string>
+    <string name="text_scanagain">Скенирај повторно</string>
+</resources>
